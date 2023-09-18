@@ -4,6 +4,7 @@
     Objetivo: ejemplo de versionamiento con git desde python
 """
 import random
+print("numero aleatorio entre 1 y 10")
 
 random_number = random.randint(1 , 10) #para un numero aleatorio
 print(random_number)
